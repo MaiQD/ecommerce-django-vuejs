@@ -21,6 +21,7 @@ python .\manage.py createsuperuser
 python .\manage.py runserver
 
 python .\manage.py startapp product
+python .\manage.py startapp order
 
 ## VueJS
 npm install -g @vue/cli
